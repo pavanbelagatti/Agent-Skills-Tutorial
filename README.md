@@ -5,11 +5,11 @@ A real-world Agent Skills tutorial using live Port.io catalog data.
 ## Structure
 .agents/skills/port-readiness/
 
-├── SKILL.md  # Trigger + instructions
+├── SKILL.md                            
 
-├── references/scorecard-state.md  # Live Port catalog data
+├── references/scorecard-state.md       
 
-└── assets/fix-checklist.md  # Step-by-step fix guide
+└── assets/fix-checklist.md             
 
 ## How to use
 1. Clone this repo and open in VS Code
