@@ -18,4 +18,6 @@ A real-world Agent Skills tutorial using live Port.io catalog data.
 4. Type `/skills` to confirm `port-readiness` is detected
 5. Ask: "Why is travel_service failing its Port scorecard?"
 
-## Watch the full tutorial
+[Sign up to Port & get a free account](https://port.io?utm_source=youtube&utm_medium=advocacy&utm_campaign=skills) & try automating your Dev workflows.
+
+[Watch the full tutorial](https://youtu.be/w65tyLWjGqA)
